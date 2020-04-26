@@ -46,3 +46,10 @@ This script relies on Simplify3D automatically adding the profile settings to th
 
 
 I have only tested this with Simplify3D 4.1.2, but it should be backwards compatible... I just don't know how far
+
+## Stuff I Shouldn't Have To Say
+I am not responsible for anything bad that happens to your 3D Printer as a result of you using this script.
+
+If you are worried, review the code, review the gCode file, review the temperatures, review the cooling, review the print volume settings.
+
+DO NOT DOWNLOAD GCODE / PROFILES FROM SOURCES YOU DO NOT TRUST
